@@ -24,7 +24,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="5" value="for i in range(0,4)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+                <mxCell id="5" value="for i in range(0,3)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
                     <mxGeometry x="160" y="210" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="6" value="&lt;h1&gt;&lt;font color=&quot;#ffff00&quot;&gt;Outer Loop&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font color=&quot;#ffff00&quot;&gt;The first loop serves to take the very first number in the array which will be 5 in range(0,5). After it takes 5 it moves on to the secondary loop to obatain the second value.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
@@ -42,11 +42,11 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="8" value="for j in range(1,4)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+                <mxCell id="8" value="for j in range(1,3)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
                     <mxGeometry x="159" y="310" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="9" value="array = [5,10,15,25,40]" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;size=40;position=0.25;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
-                    <mxGeometry x="280" y="60" width="140" height="80" as="geometry"/>
+                    <mxGeometry x="270" y="30" width="140" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" value="" style="shape=flexArrow;endArrow=classic;html=1;fontColor=#FFFF00;fillColor=#f0a30a;strokeColor=#BD7000;" edge="1" parent="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -80,11 +80,11 @@
                 <mxCell id="22" value="print()" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;" vertex="1" parent="1">
                     <mxGeometry x="130" y="500" width="70" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="42" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontColor=#ffffff;fillColor=#e51400;strokeColor=#B20000;" vertex="1" parent="1">
-                    <mxGeometry x="330" y="200" width="20" height="190" as="geometry"/>
+                <mxCell id="42" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontColor=#000000;fillColor=#e3c800;strokeColor=#B09500;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="180" width="20" height="230" as="geometry"/>
                 </mxCell>
-                <mxCell id="43" value="&lt;h1&gt;&lt;font color=&quot;#ff0000&quot;&gt;Note&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#ff0000&quot;&gt;The key to making this code work is to have both the outer and inner loop occur one at a time. The range describes the number that should be added but the inner loop cannot continue iterating. If i and j follow the index values assinged by range then the occurence of 5 + 10, 10 + 15, &amp;amp; 15 + 25 will occur. &lt;/font&gt;&lt;font color=&quot;#ffff00&quot;&gt;Normally, the first loop executes then the second loop continues up until it finishes but here this cannot be the case or risk changing the expected outcome.&amp;nbsp;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-                    <mxGeometry x="360" y="210" width="190" height="270" as="geometry"/>
+                <mxCell id="43" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;The key to making this code work is to have both the outer and inner loop occur one at a time. The range describes the number that should be added but the inner loop cannot continue iterating. If i and j follow the index values assinged by range then the occurence of 5 + 10, 10 + 15, &amp;amp; 15 + 25 will occur.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ffff00&quot;&gt;Normally, the first loop executes then the second loop continues up until it finishes but here this cannot be the case or risk changing the expected outcome.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="230" width="250" height="270" as="geometry"/>
                 </mxCell>
                 <mxCell id="44" value="&lt;font color=&quot;#ffff00&quot;&gt;Print i + j from both loops at a time.&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
                     <mxGeometry x="-100" y="500" width="130" height="60" as="geometry"/>
@@ -97,6 +97,9 @@
                 </mxCell>
                 <mxCell id="47" value="&lt;font color=&quot;#ffffff&quot;&gt;Break after the range is finished&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;" vertex="1" parent="1">
                     <mxGeometry x="170" y="550" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font color=&quot;#ffff00&quot;&gt;AD-4-4&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="-135" y="45" width="80" height="40" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
