@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="BizQAVLp48Nou8lFr_Ab" name="Page-1">
-        <mxGraphModel dx="1252" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1153" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -83,7 +83,7 @@
                 <mxCell id="42" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontColor=#000000;fillColor=#e3c800;strokeColor=#B09500;" vertex="1" parent="1">
                     <mxGeometry x="330" y="180" width="20" height="230" as="geometry"/>
                 </mxCell>
-                <mxCell id="43" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;The key to making this code work is to have both the outer and inner loop occur one at a time. The range describes the number that should be added but the inner loop cannot continue iterating. If i and j follow the index values assinged by range then the occurence of 5 + 10, 10 + 15, &amp;amp; 15 + 25 will occur.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ffff00&quot;&gt;Normally, the first loop executes then the second loop continues up until it finishes but here this cannot be the case or risk changing the expected outcome.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+                <mxCell id="43" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ffff00&quot;&gt;The key to making this code work is to have both the outer and inner loop occur one at a time. The range describes the number that should be added but the inner loop cannot continue iterating. If i and j follow the index values assinged by range then the occurence of 5 + 10, 10 + 15, &amp;amp; 15 + 25 will occur.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ffff00&quot;&gt;Normally, the first loop executes then the second loop continues up until it finishes but here this cannot be the case or risk changing the expected outcome.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
                     <mxGeometry x="350" y="230" width="250" height="270" as="geometry"/>
                 </mxCell>
                 <mxCell id="44" value="&lt;font color=&quot;#ffff00&quot;&gt;Print i + j from both loops at a time.&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
@@ -100,6 +100,9 @@
                 </mxCell>
                 <mxCell id="48" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font color=&quot;#ffff00&quot;&gt;AD-4-4&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
                     <mxGeometry x="-135" y="45" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="important &lt;br&gt;Note" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFF00;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="120" width="150" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
