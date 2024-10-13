@@ -107,7 +107,7 @@
                 <mxCell id="51" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=18;fontColor=#000000;size=0.5;fillColor=#e3c800;strokeColor=#B09500;" vertex="1" parent="1">
                     <mxGeometry x="-200" y="110" width="20" height="300" as="geometry"/>
                 </mxCell>
-                <mxCell id="52" value="begininng conditions&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#76608a;strokeColor=#432D57;" vertex="1" parent="1">
+                <mxCell id="52" value="beginning conditions&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#76608a;strokeColor=#432D57;" vertex="1" parent="1">
                     <mxGeometry x="-340" y="210" width="140" height="100" as="geometry"/>
                 </mxCell>
             </root>
