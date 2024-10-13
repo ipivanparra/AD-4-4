@@ -98,11 +98,11 @@
                 <mxCell id="47" value="&lt;font color=&quot;#ffffff&quot;&gt;Break after the range is finished&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;" vertex="1" parent="1">
                     <mxGeometry x="170" y="550" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="48" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font color=&quot;#ffff00&quot;&gt;AD-4-4&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-                    <mxGeometry x="-135" y="45" width="80" height="40" as="geometry"/>
-                </mxCell>
                 <mxCell id="49" value="important &lt;br&gt;Note" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFF00;" vertex="1" parent="1">
                     <mxGeometry x="400" y="120" width="150" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="&lt;span style=&quot;&quot;&gt;AD-4-4&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFF00;" vertex="1" parent="1">
+                    <mxGeometry x="-140" y="10" width="120" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
